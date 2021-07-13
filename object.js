@@ -22,23 +22,32 @@ let mahasiswa2 = {
     }
 }
 
-// 2. function Declaration
-function Mahasiswa(nama, health) {
-    let mahasiswa1 = {};
-    mahasiswa1.nama = nama;
-    mahasiswa1.health = health;
-
-    mahasiswa1.damage = function(poin) {
+const methodMahasiswa = {
+    damage : function(poin) {
         this.health -= poin;
         console.log(`darah berkurang - ${poin}`);
         return this.damage;
-    }
+    },
 
-    mahasiswa1.makan = function(porsi) {
+    makan : function(porsi) {
         this.health += porsi;
         console.log(`Halo ${this.nama}, darah bertambah + ${porsi}`);
         return this.makan;
+    },
+
+    tidur : function(jam) {
+        this.health += jam * 2;
+        console.log(`darah bertambah + ${jam * 2}`);
+        return this.tidur;
     }
+}
+
+// 2. function Declaration
+function Mahasiswa(nama, health) {
+    let mahasiswa1 = Object.create(methodMahasiswa);
+    mahasiswa1.nama = nama;
+    mahasiswa1.health = health;
+    
     return mahasiswa1;
 }
 
