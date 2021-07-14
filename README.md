@@ -4,8 +4,8 @@ Exercise results from video **Javascript Lanjutan Web Programming UNPAS**
 
 **File order :**
 
-- object
-- object2
+- object & object.create
+- prototype
 
 ## Touch me
 
