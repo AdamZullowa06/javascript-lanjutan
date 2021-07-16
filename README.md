@@ -7,6 +7,7 @@ Exercise results from video **Javascript Lanjutan Web Programming UNPAS**
 - object & object.create
 - prototype
 - execution
+- closure
 
 ## Touch me
 
