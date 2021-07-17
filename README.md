@@ -8,6 +8,7 @@ Exercise results from video **Javascript Lanjutan Web Programming UNPAS**
 - prototype
 - execution
 - closure
+- arrow
 
 ## Touch me
 
