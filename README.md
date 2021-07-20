@@ -9,6 +9,7 @@ Exercise results from video **Javascript Lanjutan Web Programming UNPAS**
 - execution
 - closure
 - arrow
+- box
 
 ## Touch me
 
