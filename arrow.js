@@ -43,3 +43,33 @@ let mahasiswa = ['Adam', 'Ravi', 'Bagus'];
 // arrow function return dalam bentuk object
 let jumlahHuruf = mahasiswa.map(nama => ({ nama, jmlhHuruf: nama.length }));
 console.table(jumlahHuruf);
+
+// Constructor Function
+const Mahasiswa = function() {
+    this.nama = 'Adam';
+    this.umur = 19;
+    this.sayHello = function () {
+        console.log(`Hallo nama saya ${this.nama}, umur saya ${this.umur} tahun.`);
+    }
+
+    setInterval(() => {
+        console.log(this.umur++);
+    }, 500);
+}
+
+const Adam = new Mahasiswa();
+
+// arrow function pada constructor function
+// arrow function tidak memiliki konse "this"
+const Siswa = function() {
+    this.nama = 'Adam';
+    this.umur = 19;
+    this.sayHello = () => {
+        console.log(`Halo nama saya ${nama}, umur saya ${umur} tahun`);
+    }
+}
+
+const Adam = new Siswa();
+
+
+
