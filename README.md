@@ -10,6 +10,7 @@ Exercise results from video **Javascript Lanjutan Web Programming UNPAS**
 - closure
 - arrow
 - box
+- hof (higher order function)
 
 ## Touch me
 
