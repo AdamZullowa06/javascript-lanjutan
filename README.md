@@ -11,6 +11,7 @@ Exercise results from video **Javascript Lanjutan Web Programming UNPAS**
 - arrow
 - box
 - hof (higher order function)
+- app (filter, map, reduce)
 
 ## Touch me
 
