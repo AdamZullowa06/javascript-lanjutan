@@ -12,6 +12,7 @@ Exercise results from video **Javascript Lanjutan Web Programming UNPAS**
 - box
 - hof (higher order function)
 - app (filter, map, reduce)
+- template literals
 
 ## Touch me
 
