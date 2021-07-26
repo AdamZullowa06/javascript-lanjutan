@@ -14,6 +14,7 @@ Exercise results from video **Javascript Lanjutan Web Programming UNPAS**
 - app (filter, map, reduce)
 - template literals
 - latihan literals
+- tag template
 
 ## Touch me
 
