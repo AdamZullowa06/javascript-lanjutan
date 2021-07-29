@@ -16,6 +16,7 @@ Exercise results from video **Javascript Lanjutan Web Programming UNPAS**
 - latihan literals
 - tag template
 - destructuring assignment
+- destructuring function
 
 ## Touch me
 
