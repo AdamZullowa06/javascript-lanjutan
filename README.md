@@ -17,6 +17,7 @@ Exercise results from video **Javascript Lanjutan Web Programming UNPAS**
 - tag template
 - destructuring assignment
 - destructuring function
+- for of & in
 
 ## Touch me
 
