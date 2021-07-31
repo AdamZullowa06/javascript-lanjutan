@@ -18,6 +18,7 @@ Exercise results from video **Javascript Lanjutan Web Programming UNPAS**
 - destructuring assignment
 - destructuring function
 - for of & in
+- spread operator
 
 ## Touch me
 
