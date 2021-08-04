@@ -20,6 +20,7 @@ Exercise results from video **Javascript Lanjutan Web Programming UNPAS**
 - for of & in
 - spread operator
 - rest parameter
+- callback
 
 ## Touch me
 
