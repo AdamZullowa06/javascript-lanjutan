@@ -21,6 +21,7 @@ Exercise results from video **Javascript Lanjutan Web Programming UNPAS**
 - spread operator
 - rest parameter
 - callback
+- promise
 
 ## Touch me
 
