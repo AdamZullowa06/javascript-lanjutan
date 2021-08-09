@@ -22,6 +22,8 @@ Exercise results from video **Javascript Lanjutan Web Programming UNPAS**
 - rest parameter
 - callback
 - promise
+- fetch (di repo Movies)
+- fetch refactor (di repo Movies)
 
 ## Touch me
 
