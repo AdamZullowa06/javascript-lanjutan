@@ -24,6 +24,8 @@ Exercise results from video **Javascript Lanjutan Web Programming UNPAS**
 - promise
 - fetch (di repo Movies)
 - fetch refactor (di repo Movies)
+- asnyc function
+- error handling pada movies
 
 ## Touch me
 
